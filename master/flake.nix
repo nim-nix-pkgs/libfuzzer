@@ -11,7 +11,6 @@
   inputs.src-libfuzzer-master.ref   = "refs/heads/master";
   inputs.src-libfuzzer-master.owner = "planetis-m";
   inputs.src-libfuzzer-master.repo  = "libfuzzer";
-  inputs.src-libfuzzer-master.dir   = "";
   inputs.src-libfuzzer-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
