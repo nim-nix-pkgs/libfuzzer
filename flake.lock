@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656300983,
-        "narHash": "sha256-GmcQNlMu4ZC6z2Rge2METN9ti2/uXWAOIHUQYNTNah8=",
+        "lastModified": 1656746837,
+        "narHash": "sha256-hfUfhoAw4SJ5nt39Y06e9eW2SzOAZ8Aj+9cwktBy+iU=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzer",
-        "rev": "12a618f3fe4679a7123be10aeb5fb0962c34cfa8",
+        "rev": "f51f93e1b6b7bead020068cdc29799e411fb20a2",
         "type": "github"
       },
       "original": {
