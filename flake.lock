@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657153031,
-        "narHash": "sha256-W+cMm3FOlG1tLN1r7MnVQPcKleCspopeEabz6SB0/10=",
+        "lastModified": 1658018010,
+        "narHash": "sha256-8VtMHC7OF6rN1jEU7X9nspFMmEn68KN7hgeGHJVZABU=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzer",
-        "rev": "05ad0222fddf8335a139239b07cd681f1186c448",
+        "rev": "4b78a8566802f5167bb1734e2f196aede63f6c39",
         "type": "github"
       },
       "original": {
@@ -70,11 +70,11 @@
     "src-libfuzzer-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1645377701,
-        "narHash": "sha256-vFe+40YpOwvJdLUXqdkUwEYE3qo/tM3bWmdT4kuR/Uk=",
+        "lastModified": 1657570045,
+        "narHash": "sha256-n0+ETnQs8J4a7cQ+zePSLAhYuiC1/ndOogk0HVm1MTs=",
         "owner": "planetis-m",
         "repo": "libfuzzer",
-        "rev": "ca2698df9d2ffc71dde132d34ecd25870aa3d7b7",
+        "rev": "7f6cf48ffff273c96e9a8653e54de8ad7d300c08",
         "type": "github"
       },
       "original": {
